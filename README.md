@@ -1,2 +1,2 @@
 # MetagenomicAnalyses_LRS
-Example bash scripts for analysis of long read sequence data
+Example bash scripts for analysis of long read sequence data. As of Feb 3, 2023 this is ongoing work and I will be updating this repository as I proceed in the pipeline. Scripts to be added soon include for maxBin2 (binner), metaWrap and DAStool (bin refinement), minimap2 (align long reads to bins), Racon and medaka (assembly polishing), checkM (completeness and contamination), deRep (identify unique set of MAGs), gtdb-tk (taxonomy assignment).
